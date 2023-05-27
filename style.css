@@ -1,0 +1,8 @@
+.nr2 , .nr1{
+    margin-left: 50px;
+    border: 3px solid red;
+    margin-top: 40px;
+}
+.btn{
+    margin: 30px 200px;
+}
